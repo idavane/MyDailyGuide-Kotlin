@@ -1,0 +1,2 @@
+rootProject.name='MyDailyGuide'
+include ':app'
